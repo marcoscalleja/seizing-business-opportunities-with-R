@@ -13,3 +13,5 @@ For that, Business development team has identified 5000 new potential locations 
 - **Challenge 1**: General Overview and Data Treatment 
 - **Challenge 2**: Introduction to Probability Models 
 - **Final presentation**: Key insights, optimization levers & Modelling
+
+The participants of this project are mentioned in 'Seizing the business potential of vendex'
